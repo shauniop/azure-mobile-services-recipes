@@ -44,4 +44,4 @@ this.rootPage.GetFrameContent().Navigate(typeof(LeaderboardPage), this.rootPage)
 ```
 
 
-Complete testing scripts coming soon.
+This project is currently abandoned.
